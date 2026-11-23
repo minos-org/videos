@@ -48,3 +48,13 @@ Every film has `-h.mp4`, `-v.mp4`, `-h.jpg` and `-v.jpg`.
 | resumen-tres-comandos | three commands | 18.5 s | 607 KB | 575 KB |
 | un-archivo | one file | 16.0 s | 381 KB | 380 KB |
 | veinte-anos | twenty years | 17.0 s | 1848 KB | 1192 KB |
+| clic-en-el-fondo | click the wallpaper | 16.0 s | 491 KB | 483 KB |
+| de-cero-a-trabajar | from zero to work | 18.0 s | 573 KB | 524 KB |
+| de-la-descarga-al-instalador | from the iso to the installer | 17.0 s | 451 KB | 448 KB |
+| de-principio-a-fin | the installer, start to finish | 17.2 s | 554 KB | 512 KB |
+| hecho-para-programar | made for people who build | 16.5 s | 571 KB | 533 KB |
+| minos-en-quince | minos in fifteen seconds | 14.8 s | 522 KB | 556 KB |
+| por-que-otra-distro | why another distro | 15.0 s | 376 KB | 369 KB |
+| tres-sistemas-de-archivos | three file systems | 15.4 s | 659 KB | 432 KB |
+| turno-de-noche | the late shift | 16.0 s | 397 KB | 391 KB |
+| una-linea-un-sistema | one line, a whole system | 14.1 s | 515 KB | 630 KB |
